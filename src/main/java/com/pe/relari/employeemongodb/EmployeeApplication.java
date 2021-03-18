@@ -1,4 +1,4 @@
-package com.renzo.desarrrollo.api.employee;
+package com.pe.relari.employeemongodb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

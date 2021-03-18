@@ -1,0 +1,18 @@
+spring:
+  data:
+    mongodb:
+      database: demo
+      host: localhost
+#      password: root
+      port: 27017
+
+application:
+  api:
+    path: '/business/mongodb/v1/employees'
+
+server:
+  port: 9040
+
+logging:
+  level:
+    com.pe.relari.employeemongodb: TRACE
